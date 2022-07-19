@@ -5,8 +5,8 @@ Web3Dashboard is a DAO platform that enables users to keep track of all the deta
 # Getting Started with Web3Dashboard
 ### Web Requirements
 Wallet Address.<br>
-All Operating systems are supported. 
-Supported browsers include Chrome, Firefox and Brave.
+All Operating systems are supported.<br>
+Supported browsers include Chrome, Firefox and Brave.<br>
 
 ### User Interface
 Once you are in the WebDashbaord, You will see a field to "Enter your wallet address" and select the network to track your assets. Enter your wallet address, select preferred network from the dropdown list and click on the search icon at the top right hand side of the User Interface.
@@ -16,9 +16,10 @@ The "Assets" section of the dashboard will load right away after selecting the a
 
 
 #### Key Features
-“Assets” section display the assets you own based the network you have selected. 
-“DAO” section only holds files 
-"NFT" section contains
+![https://web3dashboard-hazel.vercel.app/images/campaign.png]
+“Assets” section display the assets you own based the network you have selected. <br>
+“DAO” section only holds transaction analytics <br>
+"NFT" section contains <br>
 
 
 ### Supported Networks
