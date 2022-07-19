@@ -5,7 +5,7 @@
 ### User Interface
 #### Key Features
 ### Supported Networks
-https://www.covalenthq.com/static/images/blockchains/white/bsc.png
+![AVALANCHE](https://www.covalenthq.com/static/images/blockchains/white/bsc.png)
 
 ### Developer Tools
 ### Service Provider
