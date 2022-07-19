@@ -41,7 +41,7 @@ Vercel link []
 ### Deployments
 
 ### Contributors
-Cas
-Jesserc
-Longs
-Mitchelle
+Cas <br>
+Jesserc <br>
+Longs <br>
+Mitchelle 
