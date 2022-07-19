@@ -29,9 +29,6 @@ Binance Smart Chain
 Polygon
 ![Polygon](https://thumbs.dreamstime.com/b/polygon-logos-vector-logo-text-icon-author-s-development-image-large-size-original-red-230651964.jpg)
 
-### Developer Tools
-### Service Provider
-
 # Development Environment
 
 ## User Interface Link
