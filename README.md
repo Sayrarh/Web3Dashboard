@@ -4,7 +4,7 @@ Web3Dashboard is a DAO platform that enables users to keep track of all the deta
 
 # Getting Started with Web3Dashboard
 ### Web Requirements
-Wallet Address.
+Wallet Address.<br>
 All Operating systems are supported. 
 Supported browsers include Chrome, Firefox and Brave.
 
