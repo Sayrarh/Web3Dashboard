@@ -9,16 +9,15 @@ All Operating systems are supported.<br>
 Supported browsers include Chrome, Firefox and Brave.
 
 ### User Interface
-Once you are in the WebDashbaord, You will see a field to "Enter your wallet address" and select the network to track your assets. Enter your wallet address, select preferred network from the dropdown list and click on the search icon at the top right hand side of the User Interface.
- 
-
-The "Assets" section of the dashboard will load right away after selecting the appropriate button on the dashboard's left side. You can then toggle to the "DAO" section, the NFT session, and back.
+To check your assets, perform the following:
+Once in the Web3Dashboard, you will notice a field to "Enter your wallet address" and select the network to track your assets. Enter your wallet address, select your preferred network from the dropdown menu, and then click the search icon in the upper right corner of the user interface.
+After clicking the appropriate button on the dashboard's left side, the "Assets" section will load immediately. You can then navigate to the "DAO" session, the NFT session, and back.
 
 
 #### Key Features
-“Assets” section display the assets you own based the network you have selected. <br>
-“DAO” section only holds transaction analytics <br>
-"NFT" section contains 
+<b>Assets section:</b> Displays the assets you own based on the wallet address, selected network, and view your transaction history.<br>
+<b>DAO section:</b> Displays data from different DAOs used for analysis.<br>
+<b>NFT section:</b> (Coming Soon) Displays all the NFTs and address holds.
 
 
 ### Supported Networks
@@ -38,7 +37,7 @@ Vercel link []
 ### Deployments
 
 ### Contributors
-Cas <br>
-Jesserc <br>
-Longs <br>
+Casweeney Ojukwu <br>
+Jesse Raymond <br>
+Longs Pemun <br>
 Mitchelle 
