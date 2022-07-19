@@ -1,18 +1,16 @@
-# Web3Dashboard
-Documentation for Covalent Hackathon
 
-#Web3Dashboard DAO
+# Web3Dashboard DAO
 
-#Getting Started with the DAO
-###Supported Networks
-###Developer Tools
-###Service Provider
+# Getting Started with the DAO
+### Supported Networks
+### Developer Tools
+### Service Provider
 
-#Development Environment
+# Development Environment
 
-#Features of the DAO
+# Features of the DAO
 
-##Hosting
-Vercel ink
+## Hosting
+Vercel link []
 
-###Team members
+### Team members
